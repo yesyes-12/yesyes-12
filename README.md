@@ -32,6 +32,7 @@ const inbeom: Developer = {
   location: "Seoul, Korea",
   interests: ["Web Performance", "Scalable Components", "Rendering Patterns", "Clean Code"],
   motto: "기술적 선택의 '왜(Why)'를 명확히 설명할 수 있는 개발자"
+}
 ```
 
 <h2 align="center">🛠 Tech Stack</h2>
