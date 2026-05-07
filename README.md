@@ -22,7 +22,7 @@ interface Developer {
   readonly name: string;
   role: string;
   location: string;
-  interests: Array<"Web Performance" | "Rendering Patterns" | "Type Safety">;
+  interests: Array<"Web Performance" | "Scalable Components" | "Rendering Patterns" | "Clean Code">;
   motto: string;
 }
 
@@ -30,7 +30,7 @@ const inbeom: Developer = {
   name: "여인범",
   role: "Frontend Developer",
   location: "Seoul, Korea",
-  interests: ["Web Performance", "Rendering Patterns", "Type Safety", "Clean Code"],
+  interests: ["Web Performance", "Scalable Components", "Rendering Patterns", "Clean Code"],
   motto: "왜인지 설명할 수 있는 개발자를 지향합니다"
 ```
 
