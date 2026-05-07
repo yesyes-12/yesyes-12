@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 <h2 align="center">䷴ About Me</h2>
 
 ```typescript
+type TechInterest = 'Web Performance' | 'Scalable Components' | 'Rendering Patterns' | Clean Code;
+
 interface Developer {
   readonly name: string;
   role: string;
   location: string;
-  interests: Array<"Web Performance" | "Scalable Components" | "Rendering Patterns" | "Clean Code">;
+  interests: TechInterest[];
   motto: string;
 }
 
