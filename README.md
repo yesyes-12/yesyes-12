@@ -48,6 +48,13 @@ const inbeom: Developer = {
 
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yesyes-12&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yesyes-12"
+  width="600"
+  height="300"
+/>
+</a>
   <img src="https://github-readme-stats.vercel.app/api?username=yesyes-12&show_icons=true&hide=stars,contribs&count_private=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesyes-12&layout=compact&theme=radical" width="48%" />
 </p>
