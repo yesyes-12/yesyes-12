@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yeo%20In%20Beom&fontSize=50&fontColor=ffffff&desc=Frontend%20Developer&descAlignY=68&descSize=20" />
 
-상태가 복잡하게 얽히는 화면을 구조로 정리하는 걸 좋아합니다.
 
 </div>
 
